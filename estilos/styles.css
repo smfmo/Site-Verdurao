@@ -1,0 +1,41 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(136, 49, 49);
+    color: black;
+    padding: 15px 0;
+    text-align: center;
+}
+nav{
+    margin: 20px;
+    
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    background-color: gainsboro;
+}
+.content{
+    margin: 10px;
+}
+footer{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    bottom: 0;
+
+}
